@@ -1,5 +1,8 @@
 # Actuarial DataMined: Provisiones
 
+![Texto alternativo](utils/Save-Money.png)
+
+
 **Descripción**:
 El proyecto "Actuarial DataMined: Provisiones" emplea la metodología CRISP-DM para analizar y optimizar provisiones en el ámbito actuarial. Buscamos identificar patrones, riesgos y oportunidades en el proceso de provisiones para informar decisiones financieras efectivas.
 
