@@ -1,53 +1,53 @@
-# Actuarial DataMined: Provisiones
+# Data Mining in Actuarial: Reserves
+![Reserves](utils/Save-Money.png)
 
-![Texto alternativo](utils/Save-Money.png)
 
+**Description**:
+The "Actuarial DataMined: Reserves" project employs the CRISP-DM methodology to analyze and optimize reserves in the actuarial field. We aim to identify patterns, risks, and opportunities in the reserves process to inform effective financial decisions.
 
-**Descripción**:
-El proyecto "Actuarial DataMined: Provisiones" emplea la metodología CRISP-DM para analizar y optimizar provisiones en el ámbito actuarial. Buscamos identificar patrones, riesgos y oportunidades en el proceso de provisiones para informar decisiones financieras efectivas.
+## CRISP-DM Methodology
 
-## Metodología CRISP-DM
+### 1. Business Understanding
 
-### 1. Comprensión del Negocio
-
-- **Objetivo del negocio**: Definir las metas y objetivos a alcanzar desde una perspectiva de negocio.
-- **Evaluación de la situación**: Entender cualquier factor que pueda influir en el objetivo.
-- **Definición de objetivos de minería de datos**: Establecer criterios basados en los objetivos del negocio para un resultado exitoso.
+- **Business Objective**: Define the goals and objectives to achieve from a business perspective.
+- **Situation Assessment**: Understand any factors that may influence the objective.
+- **Data Mining Goals Definition**: Establish criteria based on business objectives for a successful outcome.
   
-### 2. Comprensión de los Datos
+### 2. Data Understanding
 
-- **Recolección de datos**: Identificar y recolectar las fuentes de datos necesarias para el proyecto.
-- **Descripción de datos**: Examinar los datos recopilados y describir sus características.
-- **Exploración de datos**: Uso de estadísticas y visualizaciones para entender los datos en profundidad.
-- **Verificación de la calidad de los datos**: Identificar y corregir problemas en los datos.
+- **Data Collection**: Identify and gather the necessary data sources for the project.
+- **Data Description**: Examine the collected data and describe its characteristics.
+- **Data Exploration**: Use statistics and visualizations to deeply understand the data.
+- **Data Quality Verification**: Identify and correct issues in the data.
 
-### 3. Preparación de los Datos
+### 3. Data Preparation
 
-- **Selección de datos**: Escoger los subconjuntos de datos relevantes para el análisis.
-- **Limpieza de datos**: Procesar y corregir inconsistencias y errores en los datos.
-- **Construcción de datos**: Crear nuevas variables o transformar las existentes si es necesario.
-- **Integración de datos**: Combinar múltiples fuentes de datos.
-- **Formateo de datos**: Asegurar que los datos estén en el formato correcto para modelado.
+- **Data Selection**: Choose relevant data subsets for analysis.
+- **Data Cleaning**: Process and correct inconsistencies and errors in the data.
+- **Data Construction**: Create new variables or transform existing ones if necessary.
+- **Data Integration**: Combine multiple data sources.
+- **Data Formatting**: Ensure data is in the correct format for modeling.
 
-### 4. Modelado
+### 4. Modeling
 
-- **Selección de técnica de modelado**: Escoger el modelo adecuado para el análisis.
-- **Diseño de pruebas**: Definir cómo se evaluarán los modelos.
-- **Construcción del modelo**: Crear y entrenar el modelo usando el conjunto de datos.
+- **Modeling Technique Selection**: Choose the appropriate model for analysis.
+- **Test Design**: Define how the models will be evaluated.
+- **Model Construction**: Create and train the model using the dataset.
 
-### 5. Evaluación
+### 5. Evaluation
 
-- **Evaluación de resultados**: Comparar los resultados del modelo con los objetivos de minería de datos.
-- **Proceso de revisión**: Repasar si el modelo y su implementación cumplen con los objetivos del negocio.
-- **Determinación de pasos a seguir**: Decidir si el proyecto necesita más trabajo o si está listo para ser desplegado.
+- **Results Evaluation**: Compare model results with data mining objectives.
+- **Review Process**: Assess whether the model and its implementation meet business goals.
+- **Determining Next Steps**: Decide if the project needs further work or is ready for deployment.
 
-### 6. Despliegue
+### 6. Deployment
 
-- **Planificación del despliegue**: Organizar cómo el modelo será implementado en el ambiente de producción.
-- **Planificación del monitoreo y mantenimiento**: Definir cómo se supervisará y mantendrá el modelo en producción.
-- **Producción del modelo final**: Desplegar el modelo en un ambiente de producción.
-- **Revisión final**: Realizar un último repaso del proyecto y recopilar lecciones aprendidas.
+- **Deployment Planning**: Organize how the model will be implemented in the production environment.
+- **Monitoring and Maintenance Planning**: Define how the model will be monitored and maintained in production.
+- **Final Model Production**: Deploy the model in a production environment.
+- **Final Review**: Conduct a final project review and gather lessons learned.
 
-## Contribuciones
+## Contributions
 
-Este repositorio está abierto a contribuciones. Si tienes mejoras, correcciones o extensiones, por favor haz un pull request y contribuye al enriquecimiento de este proyecto.
+This repository is open to contributions. If you have improvements, corrections, or extensions, please submit a pull request and contribute to enriching this project.
+
