@@ -15,8 +15,6 @@ The "Actuarial DataMined: Reserves" project, employing the CRISP-DM methodology,
 **Description**:
 The "Actuarial DataMined: Reserves" project employs the CRISP-DM methodology to analyze and optimize reserves in the actuarial field. We aim to identify patterns, risks, and opportunities in the reserves process to inform effective financial decisions.
 
-## CRISP-DM Methodology
-
 #### 1. Business Understanding
   
   - **Business Objective**: Define the goals and objectives to achieve from a business perspective.
