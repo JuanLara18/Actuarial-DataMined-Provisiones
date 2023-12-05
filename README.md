@@ -6,7 +6,7 @@ The "Actuarial DataMined: Reserves" project, employing the CRISP-DM methodology,
 
 ## Project Highlights
 
-- **Key Findings**: Utilizing advanced data mining techniques, the project revealed insightful patterns and risks associated with actuarial reserves. 
+- **Key Findings**: The project revealed insightful patterns and risks associated with actuarial reserves using advanced data mining techniques. 
 - **Methodologies**: Employed methods including Chain Ladder, Linear Models, Generalized Linear Models (GLM), and Neural Networks to analyze reserve data.
 - **Business Implications**: The insights provide a foundation for strategic financial decision-making and risk management in actuarial reserves.
 
@@ -26,14 +26,14 @@ The "Actuarial DataMined: Reserves" project employs the CRISP-DM methodology to 
 #### 1. Business Understanding
 
 - **Business Objective**: Define the goals and objectives to achieve from a business perspective.
-- **Situation Assessment**: Understand any factors that may influence the objective.
+- **Situation Assessment**: Understand any factors influencing the objective.
 - **Data Mining Goals Definition**: Establish criteria based on business objectives for a successful outcome.
-  
+
 #### 2. Data Understanding
 
 - **Data Collection**: Identify and gather the necessary data sources for the project.
 - **Data Description**: Examine the collected data and describe its characteristics.
-- **Data Exploration**: Use statistics and visualizations to deeply understand the data.
+- **Data Exploration**: Use statistics and visualizations to understand the data deeply.
 - **Data Quality Verification**: Identify and correct issues in the data.
 
 #### 3. Data Preparation
@@ -46,7 +46,7 @@ The "Actuarial DataMined: Reserves" project employs the CRISP-DM methodology to 
 
 #### 4. Modeling
 
-- **Modeling Technique Selection**: Choose the appropriate model for analysis.
+- **Modeling Technique Selection**: Choose the appropriate analysis model.
 - **Test Design**: Define how the models will be evaluated.
 - **Model Construction**: Create and train the model using the dataset.
 
