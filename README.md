@@ -11,12 +11,6 @@ The "Actuarial DataMined: Reserves" project, employing the CRISP-DM methodology,
 - **Business Implications**: The insights provide a foundation for strategic financial decision-making and risk management in actuarial reserves.
 
 ## CRISP-DM Methodology
-User
-Bueno, todo lo anterior ha sido para un proyecto sobre el cual tengo el siguiente README en github, quiero que lo mejores teniendo en cuenta lo anterior, no seas específico en el código sino en los resultados y en general en lo que se hace
-
-# Data Mining in Actuarial: Reserves
-![Reserves](utils/Save-Money.png)
-
 
 **Description**:
 The "Actuarial DataMined: Reserves" project employs the CRISP-DM methodology to analyze and optimize reserves in the actuarial field. We aim to identify patterns, risks, and opportunities in the reserves process to inform effective financial decisions.
